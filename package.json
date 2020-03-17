@@ -5,7 +5,7 @@
   "dependencies": {
     "bootstrap": "^3.3.7",
     "heroku": "^7.39.0",
-    "jquery": "^1.9.1",
+    "jquery": "^3.4.0",
     "popper.js": "^1.15.0",
     "react": "^16.10.1",
     "react-dom": "^16.10.1",
