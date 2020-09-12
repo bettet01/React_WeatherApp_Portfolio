@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "bootstrap": "^3.3.7",
+    "bootstrap": "^3.4.1",
     "heroku": "^7.39.0",
     "jquery": "^3.4.0",
     "popper.js": "^1.15.0",
